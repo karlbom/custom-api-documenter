@@ -1,5 +1,2 @@
 node_modules
 temp
-dist/tsdoc-metadata.json
-/lib
-/dist
